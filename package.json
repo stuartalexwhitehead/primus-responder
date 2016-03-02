@@ -1,5 +1,5 @@
 {
-  "name": "primus-responder",
+  "name": "primus-responder-haar",
   "version": "1.0.3",
   "description": "Request-Response ortiented communication for websockets with Primus.",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/swissmanu/primus-responder"
+    "url": "https://github.com/stuartalexwhitehead/primus-responder"
   },
   "keywords": [
     "websocket",
@@ -19,7 +19,7 @@
   "author": "Manuel Alabor",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/swissmanu/primus-responder/issues"
+    "url": "https://github.com/stuartalexwhitehead/primus-responder/issues"
   },
   "dependencies": {
     "debug": "~0.8.1",
