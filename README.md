@@ -2,7 +2,7 @@
 
 This is a fork of the [Responder plugin](https://github.com/swissmanu/primus-responder) for [Primus](https://github.com/primus/primus).
 
-Breaking changes were introduced in the node-uuid package which prevent Primus w/ primus-responder from compiling the client library for Node.js (see this [issue](https://github.com/primus/primus/issues/425) and this [pull request](https://github.com/swissmanu/primus-responder/pull/6)).
+Breaking changes were introduced in the node-uuid package which prevent Primus w/ primus-responder from compiling the client library for Node.js (see this [issue](https://github.com/primus/primus/issues/425) and this [pull request](https://github.com/swissmanu/primus-responder/pull/6)). This fork simply applies the patch until the PR is merged.
 
 Client and server plugin that adds a request/response cycle to [Primus](https://github.com/3rd-Eden/primus).
 
